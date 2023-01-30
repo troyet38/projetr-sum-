@@ -1,0 +1,26 @@
+body{
+    background-color: rgba(98, 83, 83, 0.735);
+}
+
+.titre {
+    color:red;
+    text-align:center;
+}
+
+
+#Nom{
+    color:rgba(24, 11, 164, 0.758);
+    text-align: center;
+}
+
+#def {
+    color: brown;
+    text-align: center;
+
+}
+
+#sous-nom {
+    color: rgb(15, 113, 84);
+    text-align: center;
+
+}
