@@ -5,6 +5,7 @@ body{
 .titre {
     color:red;
     text-align:center;
+    font-size: 40px;
 }
 
 
@@ -16,6 +17,7 @@ body{
 #def {
     color: brown;
     text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 
 }
 
@@ -28,4 +30,9 @@ body{
 #image {
     display: block;
     margin:auto
+}
+
+.fin {
+    color: black;
+    font-size: 25px;
 }
